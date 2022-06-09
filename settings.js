@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Ridbot" //namabot kalian
 global.ownername= "Farid" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="nekopoi.ccom" //bebas asal jan hapus
 global.youtube = "nekopoi.com" //bebas asal jan hapus
 global.github = "yandex.com" //bebas
 global.email = "faridrozak30@gmail.com" //bebas
